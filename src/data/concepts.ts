@@ -12,7 +12,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Âm tiết",
     "definition": "- Âm tiết là: Âm tiết là đơn vị phát âm tự nhiên nhỏ nhất của tiếng Việt, đóng vai trò là hình thức ngữ âm tạo nên từ hoặc hình vị. Trong tiếng Việt, ranh giới âm tiết trùng với ranh giới của hình vị điển hình.",
     "examples": [
-      "từ *lớp học* gồm 2 âm tiết *lớp* và *học.*"
+      "Từ *lớp học* gồm 2 âm tiết *lớp* và *học.*"
     ],
     "imageUrl": null
   },
@@ -32,7 +32,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Đơn vị cấu tạo từ",
     "definition": "- Đơn vị cấu tạo từ: là đơn vị nhỏ nhất có nghĩa hoặc có khả năng đi vào các phương thức cấu tạo từ, được dùng làm nguyên liệu để cấu tạo nên từ.",
     "examples": [
-      "*bút* và *viết* là hai đơn vị cấu tạo từ kết hợp lại tạo thành từ ghép *bút viết* hoặc đẹp là cấu tạo từ làm gốc để tạo thành từ láy *đẹp đẽ.*"
+      "*Bút* và *viết* là hai đơn vị cấu tạo từ kết hợp lại tạo thành từ ghép *bút viết* hoặc đẹp là cấu tạo từ làm gốc để tạo thành từ láy *đẹp đẽ.*"
     ],
     "imageUrl": null
   },
@@ -42,7 +42,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Điệp âm",
     "definition": "- Điệp âm: là kiểu láy bộ phận mà phụ âm đầu của từ tố láy lặp lại phụ âm đầu của từ tố cơ sở, còn phần khuôn vần giữa hai từ tố thì khác nhau.",
     "examples": [
-      "*lung linh* lặp lại phụ âm đầu *l-* , vần khác nhau *-ung* và *-inh*)."
+      "*Lung linh* lặp lại phụ âm đầu *l-* , vần khác nhau *-ung* và *-inh*)."
     ],
     "imageUrl": null
   },
@@ -232,7 +232,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Thành ngữ",
     "definition": "- Thành ngữ: là đơn vị đặc trưng của ngữ cố định về tính ổn định trong cấu tạo và thường có giá trị biểu trưng về mặt nghĩa.",
     "examples": [
-      "*chuột sa chĩnh gạo, cá lớn nuốt cá bé, đẽo cày giữa đường, bới lông tìm vết,..*"
+      "*Chuột sa chĩnh gạo, cá lớn nuốt cá bé, đẽo cày giữa đường, bới lông tìm vết,..*"
     ],
     "imageUrl": null
   },
@@ -242,7 +242,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Tiếng",
     "definition": "- Tiếng: là đơn vị phát âm nhỏ nhất, tương ứng với một âm tiết",
     "examples": [
-      "*he* là một tiếng vì khối âm thanh trọn vẹn nhỏ nhất phát ra trong một lần phát âm, không thể chia nhỏ hơn được nữa."
+      "*He* là một tiếng vì khối âm thanh trọn vẹn nhỏ nhất phát ra trong một lần phát âm, không thể chia nhỏ hơn được nữa."
     ],
     "imageUrl": null
   },
@@ -252,8 +252,8 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ đơn",
     "definition": "- Từ đơn: Là từ do một từ tố (hay một hình vị) tạo nên.",
     "examples": [
-      "*nhà* là từ đơn vì nó được cấu tạo nên từ một hình vị *nhà.*",
-      "*bồ hòn* là từ đơn vì mặc dù gồm hai tiếng phát ra nhưng toàn bộ tổ hợp âm thanh chỉ ứng với một hình vị duy nhất là *bồ hòn*."
+      "*Nhà* là từ đơn vì nó được cấu tạo nên từ một hình vị *nhà.*",
+      "*Bồ hòn* là từ đơn vì mặc dù gồm hai tiếng phát ra nhưng toàn bộ tổ hợp âm thanh chỉ ứng với một hình vị duy nhất là *bồ hòn*."
     ],
     "imageUrl": null
   },
@@ -485,7 +485,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ tố đơn âm",
     "definition": "- Từ tố đơn âm: là từ tố được thể hiện bằng một âm tiết (một vỏ ngữ âm duy nhất), đóng vai trò là đơn vị trung tâm và là nguyên liệu cơ bản nhất trong hệ thống cấu tạo từ tiếng Việt. Bao gồm các từ tố độc lập (tự do) và từ tố không độc lập (không tự do), có khả năng đi vào ba phương thức tạo từ (chuyển nghĩa, ghép, láy).",
     "examples": [
-      "*bè* (trong *bè bạn, bè lũ*), *khoang* (trong *khoang thuyền, khoang máy*), *lướt* (trong *lướt sóng, lướt web*)."
+      "*Bè* (trong *bè bạn, bè lũ*), *khoang* (trong *khoang thuyền, khoang máy*), *lướt* (trong *lướt sóng, lướt web*)."
     ],
     "imageUrl": null
   },
@@ -495,7 +495,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ tố độc lập",
     "definition": "- Từ tố độc lập: là từ tố đơn âm tự do, vừa có khả năng đứng một mình làm thành một từ đơn độc lập có nghĩa thực xác định để tạo câu bình thường, vừa có khả năng đóng vai trò từ tố cơ sở để tạo từ phức. Đóng vai trò là đơn vị từ vựng tiêu biểu (từ tiếng Việt) có tần suất sản sinh từ phức rất cao.",
     "examples": [
-      "*chạy* (từ đơn: *Anh ấy* chạy *rất nhanh,* tham gia tạo từ phức: *chạy chữa, chạy chọt, chạy đua*)."
+      "*Chạy* (từ đơn: *Anh ấy* chạy *rất nhanh,* tham gia tạo từ phức: *chạy chữa, chạy chọt, chạy đua*)."
     ],
     "imageUrl": null
   },
@@ -505,8 +505,8 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ tố cơ sở",
     "definition": "- Từ tố cơ sở: là từ tố có sẵn, mang nghĩa (nghĩa thực hoặc nghĩa biểu trưng/gợi hình/gợi âm), đóng vai trò là nguyên liệu gốc hay điểm xuất phát chịu sự tác động của phương thức tạo từ (ghép hoặc láy) để sinh ra một từ phức mới. Khác với từ tố láy, từ tố cơ sở quyết định hạt nhân ngữ nghĩa của từ phức.",
     "examples": [
-      "*mịn*: từ tố cơ sở trong từ láy *mịn màng*",
-      "thắt: từ tố cơ sở trong từ ghép *thắt lưng, thắt chặt*."
+      "*Mịn*: từ tố cơ sở trong từ láy *mịn màng*",
+      "Thắt: từ tố cơ sở trong từ ghép *thắt lưng, thắt chặt*."
     ],
     "imageUrl": null
   },
@@ -516,7 +516,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ tố không độc lập",
     "definition": "- Từ tố không độc lập: là từ tố đơn âm không thể đứng một mình để làm thành một từ độc lập tạo câu bình thường, chỉ xuất hiện trong các tổ hợp từ phức với tư cách là thành tố cấu tạo từ. Bao gồm nhóm từ tố gốc Hán có nghĩa rõ ràng nhưng không tự do và nhóm từ tố mất nghĩa cổ/phiên âm trong tổ hợp từ phức.",
     "examples": [
-      "*gia* (trong *gia đình, gia tăng* - gốc Hán), *dốt* (trong *dốt đặc* - từ tố cổ/mất nghĩa độc lập)."
+      "*Gia* (trong *gia đình, gia tăng* - gốc Hán), *dốt* (trong *dốt đặc* - từ tố cổ/mất nghĩa độc lập)."
     ],
     "imageUrl": null
   },
@@ -526,7 +526,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ tố láy",
     "definition": "- Từ tố láy: (hay còn gọi là *từ tố thứ sinh)* là từ tố được sản sinh ra trực tiếp từ một từ tố cơ sở theo phương thức láy, có vỏ ngữ âm lặp lại toàn bộ hoặc một bộ phận (âm đầu, vần, thanh điệu) của từ tố cơ sở.",
     "examples": [
-      "*màng*: từ tố láy thứ sinh được sinh ra từ từ tố cơ sở *mịn* trong *mịn màng*), *thót* (trong *thánh thót*)."
+      "*Màng*: từ tố láy thứ sinh được sinh ra từ từ tố cơ sở *mịn* trong *mịn màng*), *thót* (trong *thánh thót*)."
     ],
     "imageUrl": null
   },
@@ -546,7 +546,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ tố loại lớn",
     "definition": "- Từ tố loại lớn: là từ tố chính X mang nghĩa chỉ một phạm vi/chủng loại rộng lớn các thực thể, hoạt động hoặc tính chất cùng bản chất, làm hạt nhân định danh để kết hợp với các từ tố loại biệt nghĩa Y tạo thành một chuỗi hệ thống các từ ghép chính phụ phân nghĩa. Có tính khái quát cao, làm cơ sở bao trùm (thượng cấp) cho các loại nhỏ hơn nằm trong nó.",
     "examples": [
-      "*nhà* (từ tố loại lớn trong chuỗi từ ghép: *nhà ống, nhà sàn, nhà ngói, nhà tranh, nhà bè*), *mũ* (từ tố loại lớn trong: *mũ bảo hiểm, mũ cối, mũ lưỡi trai*)."
+      "*Nhà* (từ tố loại lớn trong chuỗi từ ghép: *nhà ống, nhà sàn, nhà ngói, nhà tranh, nhà bè*), *mũ* (từ tố loại lớn trong: *mũ bảo hiểm, mũ cối, mũ lưỡi trai*)."
     ],
     "imageUrl": null
   },
@@ -556,7 +556,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ tố thứ sinh",
     "definition": "- Từ tố thứ sinh: (hay còn gọi là *từ tố láy*) là từ tố được sản sinh ra trực tiếp từ một từ tố cơ sở theo phương thức láy, có vỏ ngữ âm lặp lại toàn bộ hoặc một bộ phận (âm đầu, vần, thanh điệu) của từ tố cơ sở.",
     "examples": [
-      "từ tố *gàng* được sinh ra từ từ tố cơ sở *gọn* trong *gọn gàng.*"
+      "Từ tố *gàng* được sinh ra từ từ tố cơ sở *gọn* trong *gọn gàng.*"
     ],
     "imageUrl": null
   },
@@ -566,7 +566,7 @@ export const CONCEPTS: Concept[] = [
     "name": "Từ vựng địa phương",
     "definition": "- Từ vựng địa phương: là đơn vị từ vựng có nghĩa khác nhau ít hay nhiều kèm theo sự khác nhau về ngữ âm nhiều hay ít nhưng không nằm trong những sai dị ngữ âm đều đặn hay không đều đặn.",
     "examples": [
-      "từ *bắp* (phương ngữ miền Nam) tương ứng với từ *ngô* (phương ngữ miền Bắc)."
+      "Từ *bắp* (phương ngữ miền Nam) tương ứng với từ *ngô* (phương ngữ miền Bắc)."
     ],
     "imageUrl": null
   },

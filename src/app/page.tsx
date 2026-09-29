@@ -56,10 +56,10 @@ export default function HomePage() {
           className="text-center mb-8 sm:mb-10"
         >
           <span className="inline-flex items-center gap-1.5 px-3 py-1 mb-3.5 text-xs font-semibold tracking-wider text-[#7D5A4C] uppercase bg-[#EADBC8]/50 border border-[#EADBC8] rounded-full">
-            Ngôn ngữ học tiếng Việt
+            ĐƠN VỊ TỪ VỰNG
           </span>
           <h1 className="text-3xl sm:text-4xl lg:text-[2.6rem] font-bold tracking-tight text-[#3E2723] mb-3 leading-tight">
-            Sổ Tay Mục Từ
+            SỔ TAY MỤC TỪ
           </h1>
           <p className="text-sm sm:text-base text-[#7D5A4C] max-w-lg mx-auto mb-8 leading-relaxed">
             Tra cứu và duyệt các khái niệm, quy tắc cấu tạo từ và hiện tượng từ vựng học tiếng Việt.
@@ -230,7 +230,7 @@ export default function HomePage() {
 
         {/* Footer */}
         <footer className="mt-14 pt-6 border-t border-[#EADBC8] flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-[#7D5A4C]">
-          <div>Sổ Tay Mục Từ Ngôn Ngữ Học Tiếng Việt &bull; 57 Khái niệm</div>
+          <div>Sổ tay mục từ - Đơn vị từ vựng</div>
           <div className="text-right">
             <span className="opacity-75">Thực hiện: </span>
             <span className="font-medium text-[#3E2723]">Nguyễn Ngọc Đan Linh, Trần Nga My, Đặng Thu Ngân</span>

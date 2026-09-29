@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   if (!concept) {
     return {
-      title: "Không tìm thấy khái niệm - Sổ Tay Mục Từ",
+      title: "Không tìm thấy khái niệm - SỔ TAY MỤC TỪ",
     };
   }
 
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     .slice(0, 160);
 
   return {
-    title: `${concept.name} - Sổ Tay Mục Từ`,
+    title: `${concept.name} - SỔ TAY MỤC TỪ`,
     description: cleanDescription,
   };
 }

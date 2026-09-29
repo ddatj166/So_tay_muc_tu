@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sổ Tay Mục Từ - Ngôn Ngữ Học Tiếng Việt",
+  title: "SỔ TAY MỤC TỪ - Đơn vị từ vựng",
   description: "Tra cứu và tìm hiểu các khái niệm, quy tắc cấu tạo từ và từ vựng học tiếng Việt.",
 };
 
